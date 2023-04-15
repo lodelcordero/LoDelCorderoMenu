@@ -23,11 +23,8 @@ function App() {
             <Route path="LodelCordero-menu/empanadas" element={<Empanadas />} />
             <Route path="LodelCordero-menu/sangucheria" element={<Sangucheria />} />
             <Route path="LodelCordero-menu/papas" element={<Papas />} />
-
             <Route path="LodelCordero-menu/agregados" element={<Agregados />} />
-
             <Route path="LodelCordero-menu/bebidas" element={<Gaseosas />} />
-
           </Routes>
         </BrowserRouter>
       </section>
