@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LodelCordero-menu/static/css/main.a191c2cc.css",
+    "main.js": "/LodelCordero-menu/static/js/main.b220c848.js",
+    "index.html": "/LodelCordero-menu/index.html",
+    "main.a191c2cc.css.map": "/LodelCordero-menu/static/css/main.a191c2cc.css.map",
+    "main.b220c848.js.map": "/LodelCordero-menu/static/js/main.b220c848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a191c2cc.css",
+    "static/js/main.b220c848.js"
+  ]
+}
