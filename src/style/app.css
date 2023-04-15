@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: nunito sans;
+}
+.menu_titulo{
+    font-size: 2em;
+    margin-left: 10.5%;
+}
