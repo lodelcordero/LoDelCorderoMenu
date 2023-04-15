@@ -19,14 +19,14 @@ function App() {
         <BrowserRouter>
           <h1 className="menu_titulo">MENU</h1>
           <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/empanadas" element={<Empanadas />} />
-            <Route path="/sangucheria" element={<Sangucheria />} />
-            <Route path="/papas" element={<Papas />} />
+            <Route path="LodelCordero-menu/" element={<HomePage />} />
+            <Route path="LodelCordero-menu/empanadas" element={<Empanadas />} />
+            <Route path="LodelCordero-menu/sangucheria" element={<Sangucheria />} />
+            <Route path="LodelCordero-menu/papas" element={<Papas />} />
 
-            <Route path="/agregados" element={<Agregados />} />
+            <Route path="LodelCordero-menu/agregados" element={<Agregados />} />
 
-            <Route path="/bebidas" element={<Gaseosas />} />
+            <Route path="LodelCordero-menu/bebidas" element={<Gaseosas />} />
 
           </Routes>
         </BrowserRouter>

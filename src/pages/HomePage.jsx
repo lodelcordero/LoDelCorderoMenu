@@ -6,19 +6,19 @@ import '../style/homepages.css'
 const HomePage = () => {
   return (
     <div>
-      <Link to="/empanadas">
+      <Link to="LodelCordero-menu/empanadas">
         <Menu titulo="Empanadas" />
       </Link>
-      <Link to="sangucheria">
+      <Link to="LodelCordero-menu/sangucheria">
         <Menu titulo="Sangucheria" />
       </Link>
-      <Link to="papas">
+      <Link to="LodelCordero-menu/papas">
         <Menu titulo="Papas" />
       </Link>
-      <Link to="agregados">
+      <Link to="LodelCordero-menu/agregados">
         <Menu titulo="Agregados" />
       </Link>
-      <Link to="bebidas">
+      <Link to="LodelCordero-menu/bebidas">
         <Menu titulo="Bebidas" />
       </Link>
     </div>
