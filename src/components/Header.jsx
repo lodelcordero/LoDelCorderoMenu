@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <header className="cabecera">
         <div className="imagen">
-            <a href="/LodelCordero-menu"><img src="img/LOGO.jpeg" alt="" max-width="20%" height="180vh" /></a>
+            <a href="/LodelCordero-menu"><img src="img/logo-prueba3.png" alt="" width="100%" height="220vh" /></a>
         </div>
         {/* <div className="nombre">
             <h1 className="titulo">LO DEL CORDERO</h1>
