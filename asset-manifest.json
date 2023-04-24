@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LodelCordero-menu/static/css/main.897a07fd.css",
-    "main.js": "/LodelCordero-menu/static/js/main.9e7fd599.js",
+    "main.css": "/LodelCordero-menu/static/css/main.baf3e520.css",
+    "main.js": "/LodelCordero-menu/static/js/main.bc151552.js",
     "index.html": "/LodelCordero-menu/index.html",
-    "main.897a07fd.css.map": "/LodelCordero-menu/static/css/main.897a07fd.css.map",
-    "main.9e7fd599.js.map": "/LodelCordero-menu/static/js/main.9e7fd599.js.map"
+    "main.baf3e520.css.map": "/LodelCordero-menu/static/css/main.baf3e520.css.map",
+    "main.bc151552.js.map": "/LodelCordero-menu/static/js/main.bc151552.js.map"
   },
   "entrypoints": [
-    "static/css/main.897a07fd.css",
-    "static/js/main.9e7fd599.js"
+    "static/css/main.baf3e520.css",
+    "static/js/main.bc151552.js"
   ]
 }
