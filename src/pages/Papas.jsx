@@ -6,11 +6,11 @@ const Papas = () =>{
     return(
     <div>
     <Navbar/>
-    <Cartas nombre='Papas comun' descripcion='' precio='$2500' />
-    <Cartas nombre='Papas gratinadas' descripcion='Con queso' precio='$2500' />
-    <Cartas nombre='Papas Cordero' descripcion='queso, beacon, cebolla de verdeo' precio='$2500' />
-    <Cartas nombre='Papas con cheddar y beacon' descripcion='' precio='$2500' />
-    <Cartas nombre='Revuelto Gramajo' descripcion='' precio='$2500' />
+    <Cartas nombre='Papas comun' descripcion='' precio='$600' />
+    <Cartas nombre='Papas gratinadas' descripcion='Con queso' precio='$700' />
+    <Cartas nombre='Papas Cordero' descripcion='queso, bacon, cebolla de verdeo' precio='$950' />
+    <Cartas nombre='Papas con cheddar y bacon' descripcion='' precio='$900' />
+    <Cartas nombre='Revuelto Gramajo' descripcion='' precio='$900' />
     </div>
     )
 }

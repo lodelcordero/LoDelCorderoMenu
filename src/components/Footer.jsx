@@ -9,11 +9,9 @@ const Footer = () => {
         </h1>
 
         <div className="numeros">
-          <a href="tel:+543515880485"> 3515880485</a>
-
           <a href="tel:+544250359"> 42503595</a>
-
           <a href="tel:+544852218"> 4852218</a>
+          <a href="tel:+543815880485"> 3815880485</a>
         </div>
         <div className="insta">
           <h1 className="insta-titulo">Seguinos en:</h1>
@@ -23,7 +21,7 @@ const Footer = () => {
         </div>
       </section>
       <section id="informacion-ubicacion">
-        <h3>ENCUENTRANOS EN:</h3>
+        <h3>ENCONTRANOS EN:</h3>
         <div className="informacion">
           <div className="icono">
             <i className="fa-sharp fa-solid fa-location-dot"></i>

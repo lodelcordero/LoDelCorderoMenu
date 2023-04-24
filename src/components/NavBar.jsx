@@ -10,6 +10,7 @@ const Navbar = () =>{
             <NavLink to="/LodelCordero-menu/papas" className={({isActive})=> isActive ? 'activo' :undefined }>Papas</NavLink>
             <NavLink to="/LodelCordero-menu/agregados" className={({isActive})=> isActive ? 'activo' :undefined }>Agregados</NavLink>
             <NavLink to="/LodelCordero-menu/bebidas" className={({isActive})=> isActive ? 'activo' :undefined }>Bebidas</NavLink>
+            <NavLink to="/LodelCordero-menu"><i class="fa-solid fa-arrow-left" id="back"></i></NavLink>
         </ul>
     )
 }
