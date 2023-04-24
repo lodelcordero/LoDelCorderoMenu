@@ -9,9 +9,9 @@ const Footer = () => {
         </h1>
 
         <div className="numeros">
-          <a href="tel:+544250359"> 42503595</a>
-          <a href="tel:+544852218"> 4852218</a>
-          <a href="tel:+543815880485"> 3815880485</a>
+          <a href="tel:4250359"> 42503595</a>
+          <a href="tel:4852218"> 4852218</a>
+          <a href="tel:3815880485"> 3815880485</a>
         </div>
         <div className="insta">
           <h1 className="insta-titulo">Seguinos en:</h1>
