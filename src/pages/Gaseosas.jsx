@@ -8,9 +8,16 @@ const Gaseosas = () =>{
       <div>
         <Navbar />
         <fieldset>
+          <legend>Bebidas sin alcohol</legend>
+          <Cartas nombre="Agua" descripcion="500 ml" precio="$400" />
+          <Cartas nombre="Soda" descripcion="500 ml" precio="$400" />
+        </fieldset>
+
+        <fieldset>
           <legend>Gaseosas</legend>
-          <Cartas nombre="Coca-cola" descripcion="1L" precio="$600" />
-          <Cartas nombre="Coca-cola" descripcion="1.5L" precio="$700" />
+          <Cartas nombre="Coca-Cola" descripcion="350ml" precio="$400" />
+          <Cartas nombre="Coca-Cola" descripcion="1L" precio="$600" />
+          <Cartas nombre="Coca-Cola" descripcion="1.5L" precio="$700" />
           <Cartas nombre="Coca-cola Zero" descripcion="1.5L" precio="$700" />
           <Cartas nombre="Fanta" descripcion="1L" precio="$600" />
           <Cartas nombre="Fanta" descripcion="1.5L" precio="$700" />
@@ -28,11 +35,18 @@ const Gaseosas = () =>{
       
         <fieldset>
           <legend>Cervezas</legend>
-          <Cartas nombre="Imperial" descripcion="330ml" precio="$600" />
+          <Cartas nombre="Porroncito/Lata" descripcion="330ml" precio="$500" />
+          <Cartas nombre="Imperial Golden" descripcion="330ml" precio="$600" />
           <Cartas nombre="Imperial" descripcion="1L" precio="$900" />
           <Cartas nombre="Heineken" descripcion="1L" precio="$1100" />
         </fieldset>
+
+        <fieldset>
+          <legend>Promos Especiales</legend>
+          <Cartas nombre="En construccion..." descripcion="" precio="0" />
+        </fieldset>
       </div>
+
       
     )
 }
