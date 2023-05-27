@@ -19,7 +19,7 @@ function App() {
         <BrowserRouter>
           <h1 className="menu_titulo">MENU</h1>
           <Routes>
-            <Route path="LodelCordero-menu/" element={<HomePage />} />
+            <Route path="LodeCordero-menu/" element={<HomePage />} />
             <Route path="LodelCordero-menu/empanadas" element={<Empanadas />} />
             <Route
               path="LodelCordero-menu/sangucheria"

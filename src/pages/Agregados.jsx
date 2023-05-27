@@ -6,7 +6,7 @@ const Agregados = () =>{
     return(
     <div>
     <Navbar/>
-    <Caras nombre='Jamon' descripcion='' precio='$100' />
+    <Cartas nombre='Jamon' descripcion='' precio='$100' />
     <Cartas nombre='Queso' descripcion='' precio='$100' />
     <Cartas nombre='Huevo' descripcion='' precio='$100' />
     <Cartas nombre='Cheddar' descripcion='' precio='$200' />
