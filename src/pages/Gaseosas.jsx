@@ -29,16 +29,18 @@ const Gaseosas = () =>{
       
         <fieldset>
           <legend>Vinos</legend>
+          <Cartas nombre="Casco Viejo" descripcion="750ml" precio="$1500" />
           <Cartas nombre="Fabre" descripcion="750ml" precio="$2300" />
           <Cartas nombre="La linda" descripcion="750ml" precio="$2500" />
         </fieldset>
       
         <fieldset>
           <legend>Cervezas</legend>
-          <Cartas nombre="Porroncito/Lata" descripcion="330ml" precio="$600" />
+          <Cartas nombre="Porroncito/Lata" descripcion="330ml" precio="$700" />
           <Cartas nombre="Imperial Golden" descripcion="330ml" precio="$700" />
           <Cartas nombre="Imperial" descripcion="1L" precio="$1000" />
           <Cartas nombre="Heineken" descripcion="1L" precio="$1200" />
+          <Cartas nombre="Miller" descripcion="1L" precio="$1200" />
         </fieldset>
 
         <fieldset>

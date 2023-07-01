@@ -7,6 +7,7 @@ const Sangucheria = () =>{
         <div>
         <Navbar/>
         <Cartas nombre='Sanguche de milanesa' descripcion='' precio='$1200' />
+        <Cartas nombre='Sanguche de milanesa especial' descripcion='Queso, jamon y huevo' precio='$1500' />
         <Cartas nombre='Sanguche de milanesa Cordero' descripcion='Cheddar y bacon' precio='$1500' />
         <Cartas nombre='Milanesa al plato' descripcion='' precio='$1600' />
         <Cartas nombre='Sanguche de lomito' descripcion='' precio='$1300' />
