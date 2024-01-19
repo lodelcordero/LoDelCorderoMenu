@@ -18,8 +18,21 @@ const Empanadas = () =>{
             <Cartas nombre='Queso' descripcion='Queso, cebolla de verdeo y huevo' precio='$500' />
             <Cartas nombre='Queso aceituna y tomate' descripcion='' precio='$500' />
             <Cartas nombre='Ternera' descripcion='Queso y tomate' precio='$500' />
-            <Cartas nombre='Docena de empanadas' descripcion='12 unidades' precio='$6000' />
-     
+
+            <fieldset>
+            <legend>Nueva</legend>
+            <Cartas nombre='Doble Queso y cebolla' descripcion='Queso y cebolla caramelizada' precio='$500' />
+            </fieldset>
+
+            
+            
+            <fieldset>
+
+            <legend>Por docena</legend>
+            <Cartas nombre='Docena de empanadas' descripcion='12 unidades' precio='$6000' /> 
+            
+            </fieldset> 
+                 
         </div>
     )
 }
